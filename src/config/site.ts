@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Builds, Items, Gear & Guides for the Dark Fantasy Idle RPG",
   description: "Lootborne Wiki offers detailed builds, item guides, gear strategies, boss tips, and progression help for the dark fantasy idle RPG Lootborne players.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://lootbornewiki.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://lootbornewiki.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@lootbornewiki.top",
   gameUrl: "https://store.steampowered.com/app/4335620/Lootborne",
   heroVideoId: "8pHdWk7zJmE", // Lootborne - Official Reveal Trailer
   social: {
