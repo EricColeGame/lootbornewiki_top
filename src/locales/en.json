@@ -7,8 +7,43 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "builds": "Builds",
+    "characters": "Characters",
+    "items": "Items",
+    "progression": "Progression",
+    "mechanics": "Mechanics",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
+  },
+  "guide": {
+    "overviewTitle": "Lootborne Wiki Guide",
+    "overviewDescription": "Beginner-to-endgame Lootborne walkthroughs covering the core loop, early progression, tips, tricks, and event basics."
+  },
+  "codes": {
+    "overviewTitle": "Lootborne Codes",
+    "overviewDescription": "Active Lootborne codes, how to redeem them step by step, and how to spot fake or expired code lists."
+  },
+  "builds": {
+    "overviewTitle": "Lootborne Builds",
+    "overviewDescription": "Best Lootborne builds, class and PvE/PvP archetypes, tier lists, and stat priority guides."
+  },
+  "characters": {
+    "overviewTitle": "Lootborne Characters",
+    "overviewDescription": "Every Lootborne class and hero explained, with sidekick and archer/mage breakdowns to help you pick a main."
+  },
+  "items": {
+    "overviewTitle": "Lootborne Items",
+    "overviewDescription": "Lootborne gear, artifacts, gems, runes, and loot cache guides covering rarity tiers, stat rolls, and upgrades."
+  },
+  "progression": {
+    "overviewTitle": "Lootborne Progression",
+    "overviewDescription": "Fast leveling, gold farming, max level, and market guides to keep your Lootborne account moving."
+  },
+  "mechanics": {
+    "overviewTitle": "Lootborne Mechanics",
+    "overviewDescription": "How Lootborne crafting, skills, stats, and events work, plus community resources and tools."
   },
   "home": {
     "meta": {
@@ -440,7 +475,6 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -471,8 +505,8 @@
     "officialYoutube": "Official Trailer",
     "vvBuilder": "Lootborne Builder (Build Planner)",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
+    "raceGuides": "Character & Class Guides",
+    "bossGuides": "Combat & Mechanics",
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
