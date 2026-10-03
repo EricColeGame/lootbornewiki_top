@@ -42,22 +42,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the idle combat loop, gear rarity, stat priorities, and the early habits that keep your first character on track."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Push toward the level cap faster with efficient XP routes, campaign objectives, and dense zone farming."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Gold Farming",
+          "description": "Turn spare loot into steady income with dense routes, smart pickup filters, and disciplined run resets."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Lootborne."
+          "title": "Best Class",
+          "description": "Compare the core archetypes and pick the playstyle that matches your gear, your reflexes, and your goals."
         }
       ]
     },
@@ -65,73 +65,73 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
+        "Beginner Guide",
         "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Best Builds",
+        "Tier List"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
-        },
-        {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "description": "First-session priorities, loot rarity, stat checks, and the habits that keep a new build on track.",
+          "href": "/guide/lootborne-beginner-guide"
         },
         {
           "badge": "Popular",
           "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "description": "Melee, marksman, caster, summoner, and support archetypes with stat priorities and gear rolls.",
+          "href": "/builds/lootborne-best-build"
+        },
+        {
+          "badge": "Updated",
+          "title": "Active Codes",
+          "description": "How Lootborne codes work, where to find live ones, and how to redeem them safely.",
+          "href": "/codes/lootborne-codes"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Tier List",
+          "description": "Every major build archetype ranked from S-tier to D-tier by clear speed and survivability.",
+          "href": "/builds/lootborne-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Fastest Leveling",
+          "description": "The XP routes, zone repeats, and campaign habits that reach the cap with the least wasted time.",
+          "href": "/progression/lootborne-fast-leveling"
+        },
+        {
+          "badge": "Popular",
+          "title": "Gold Farming",
+          "description": "Dense farming routes, sell-versus-salvage rules, and routines that turn spare loot into upgrades.",
+          "href": "/progression/lootborne-gold-farm"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Gear Guide",
+          "description": "Rarity tiers, affix checks, and upgrade decisions so you stop wasting good drops.",
+          "href": "/items/lootborne-gear"
+        },
+        {
+          "badge": "Updated",
+          "title": "Market & Trading",
+          "description": "Value drivers, pricing phases, and the economy rules behind profitable Lootborne trades.",
+          "href": "/progression/lootborne-market"
+        },
+        {
+          "badge": "Popular",
+          "title": "PvP Builds",
+          "description": "Stat priorities, affix choices, and matchup logic for duels that hold up under pressure.",
+          "href": "/builds/lootborne-pvp-build"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Lootborne?",
       "paragraphs": [
-        "Lootborne is a stylized fighting RPG on Steam inspired by the dark fantasy universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Lootborne is a dark fantasy idle RPG and auto battler on Steam from developer Fate Rate. You build a hero around the loot you find, pushing through seven regions of dungeons and elite packs while your gear, not just your level, decides how far you can go.",
+        "The game ships with 424 items across six rarity tiers, a level 60 progression track, 35 enemy types, and asynchronous PvP. Whether you are chasing a legendary weapon, farming gold for rerolls, or optimizing a build for the arena, our Lootborne Wiki covers every system with practical guides and data tables."
       ],
       "stats": [
         {
@@ -144,158 +144,256 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Idle RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Items",
+          "value": "424"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Rarities",
+          "value": "6"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Regions",
+          "value": "7"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Enemies",
+          "value": "35"
+        },
+        {
+          "label": "Achievements",
+          "value": "27"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Lootborne Wiki",
-      "description": "Master your seafood restaurant on Steam with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master Lootborne with beginner, build, item, tier list, PvP, achievement, trading, and update guides collected in one place.",
       "modules": [
         {
           "order": 1,
-          "name": "Lootborne Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/lootborne-codes",
-          "displayType": "code-box",
+          "name": "Lootborne Wiki Beginner Guide",
+          "description": "Essential systems for new players: the idle combat loop, gear rarity, stat priorities, upgrade materials, and the early decisions that compound.",
+          "href": "/guide/lootborne-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Clear the intro and tutorial zone to unlock stash, crafting, and vendor access"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Try two or three weapon types and find the rhythm you actually enjoy"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Commit to one main damage skill instead of spreading points thin"
+            },
+            {
+              "label": "4",
+              "detail": "Set a gear-score target for the zone and stop farming once drops slow down"
+            },
+            {
+              "label": "5",
+              "detail": "Bank upgrade materials until you know which item is a keeper"
+            },
+            {
+              "label": "6",
+              "detail": "Push into the next content tier where the better drop tables live"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/lootborne-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Lootborne Wiki Builds Guide",
+          "description": "How to build around the loot you actually own, with archetype comparisons, stat priorities, and gear affix checks.",
+          "href": "/builds/lootborne-best-build",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Bruiser",
+              "detail": "Melee Bruiser - sustained close-range trades backed by life and armor"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Marksman",
+              "detail": "Ranged Marksman - kite and burst from safety with crit scaling"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Caster",
+              "detail": "Caster Nuker - screen-wide area clear on big cooldown windows"
+            },
+            {
+              "label": "Summoner",
+              "detail": "Summoner - let minions farm and fight while you learn the game"
+            },
+            {
+              "label": "Support",
+              "detail": "Hybrid Tank-Support - auras and cooldown recovery for stable runs"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/guide/lootborne-tier-list",
-          "displayType": "tier-grid",
+          "name": "Lootborne Wiki Items Guide",
+          "description": "Equipment progression, item rarities, affix evaluation, and the farming sources behind every valuable drop.",
+          "href": "/items/lootborne-gear",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Common",
+              "detail": "Frequent base-stat drops - salvage once you have a full set"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Uncommon",
+              "detail": "Bridge gear while farming - keep only if it rolls your main stat"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Rare",
+              "detail": "Mid-game workhorse - keep when two or more stats align"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Epic",
+              "detail": "Build-defining for most players - almost always keep and inspect"
+            },
+            {
+              "label": "Legendary",
+              "detail": "Rare chase items with unique modifiers - keep even off-build"
+            },
+            {
+              "label": "Mythic",
+              "detail": "Very rare ascended gear - never salvage without reading the modifier"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/guide/lootborne-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Lootborne Wiki Tier List",
+          "description": "Every major build archetype ranked by clear speed, survivability, gear floor, and endgame scaling.",
+          "href": "/builds/lootborne-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Bloodrage Melee and Elemental Caster - dominant at every stage"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Minion Summoner, Crit Marksman, and Ailment DoT - reliable all-rounders"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Bruiser-Tank, Aura Support, and Glass Cannon - strong in one lane"
+            },
+            {
+              "label": "C",
+              "detail": "Hybrid Caster-Melee and rainbow builds - punishing to run"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/lootborne-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Lootborne Wiki PvP Guide",
+          "description": "Asynchronous duels, leaderboard climbing, and the stat and affix choices that decide real player matchups.",
+          "href": "/builds/lootborne-pvp-build",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Bruiser",
+              "detail": "Outlast opponents in long trades with effective health and cooldown reduction"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Assassin",
+              "detail": "Delete a target inside one burst window with crit and mobility"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Zoner",
+              "detail": "Control space at range and never let a melee close the gap"
+            },
+            {
+              "label": "Skirmisher",
+              "detail": "Chip, reset, and repeat with mobility plus sustained damage"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/guide/lootborne-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Lootborne Wiki Achievements Guide",
+          "description": "Completion planning for Lootborne's 27 Steam achievements, from first clears to chase-tier unlocks.",
+          "href": "/guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "27 Goals",
+              "detail": "Track every Steam achievement and plan a clean completion route"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Clears",
+              "detail": "Grab high first-clear rewards from bosses and story objectives"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Milestones",
+              "detail": "Bank guaranteed gear and upgrade materials from milestone tiers"
+            },
+            {
+              "label": "Chase Tier",
+              "detail": "Hunt rare drops and unique modifiers for the hardest goals"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Lootborne Wiki Trading Guide",
+          "description": "Steam Market rules, value drivers, pricing phases, and how the Lootborne economy turns drops into upgrades.",
+          "href": "/progression/lootborne-market",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Scarcity",
+              "detail": "Rare bases and affix combos hold their value longest on the market"
+            },
+            {
+              "label": "Demand",
+              "detail": "Track what popular builds recommend to predict price swings"
+            },
+            {
+              "label": "Rolls",
+              "detail": "Compare the exact stats on an item, not just its name"
+            },
+            {
+              "label": "Patch Time",
+              "detail": "Re-check listings after every balance patch before buying or selling"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Lootborne Wiki Updates Guide",
+          "description": "Official announcements, patch notes, event cycles, and the reward windows worth showing up for.",
+          "href": "/mechanics/lootborne-events",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rotations",
+              "detail": "Short event cycles add new drops to existing enemies"
+            },
+            {
+              "label": "Bosses",
+              "detail": "Limited-time world bosses and variants drop chase items"
+            },
+            {
+              "label": "Currency",
+              "detail": "Event-only tokens convert into targeted vendor rewards"
+            },
+            {
+              "label": "Boosts",
+              "detail": "Boosted XP, drop rate, and crafting yields for catching up"
+            },
+            {
+              "label": "Seasonal",
+              "detail": "Long-form content drops with a full reward track"
             }
           ]
         }
@@ -307,23 +405,31 @@
       "items": [
         {
           "question": "What is Lootborne?",
-          "answer": "Lootborne is a free-to-play fighting RPG on Steam based on the dark fantasy setting. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Lootborne is a dark fantasy idle RPG and auto battler on Steam from developer Fate Rate. You build a hero around the loot you find, clearing dungeons and elite packs across seven regions."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What platforms is Lootborne available on?",
+          "answer": "Lootborne is available on PC through Steam. It is a single-player idle RPG with asynchronous PvP features rather than a real-time online game."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How much content does Lootborne have?",
+          "answer": "Lootborne includes 424 items across six rarity tiers, a level 60 progression track, seven regions, 35 enemy types, and 27 Steam achievements."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the Lootborne level cap?",
+          "answer": "The Lootborne level cap is 60. Reaching it opens the endgame, where gear rolls, runes, and gems matter far more than raw character level."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Lootborne have codes?",
+          "answer": "Lootborne codes are short developer-issued strings that grant free rewards. They are case-sensitive, usually one per account, and expire quickly, so redeem them the day you find them."
+        },
+        {
+          "question": "Does Lootborne have PvP?",
+          "answer": "Yes. Lootborne features asynchronous PvP battles and leaderboards, where build choices and cooldown timing matter more than raw gear score."
+        },
+        {
+          "question": "Where should a new Lootborne player start?",
+          "answer": "Start with the Lootborne beginner guide, then follow the fastest leveling and gold farming routes to build a stable foundation before chasing endgame gear."
         }
       ]
     },
