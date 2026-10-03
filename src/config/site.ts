@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Lootborne Wiki",
+  shortName: "Lootborne",
+  logoText: "L",
+  tagline: "Builds, Items, Gear & Guides for the Dark Fantasy Idle RPG",
+  description: "Lootborne Wiki offers detailed builds, item guides, gear strategies, boss tips, and progression help for the dark fantasy idle RPG Lootborne players.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://lootbornewiki.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://lootbornewiki.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/4335620/Lootborne",
+  heroVideoId: "8pHdWk7zJmE", // Lootborne - Official Reveal Trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://steamcommunity.com/app/4335620/",
+    youtube: "https://www.youtube.com/watch?v=8pHdWk7zJmE",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
