@@ -1,1 +1,514 @@
-{}
+{
+  "site": {
+    "name": "Lootborne Wiki",
+    "shortName": "Lootborne",
+    "tagline": "暗黑奇幻放置 RPG 的流派、物品、装备与攻略",
+    "description": "Lootborne Wiki 为暗黑奇幻放置 RPG《Lootborne》玩家提供详尽的流派搭配、物品图鉴、装备策略、Boss 攻略与成长指南。",
+    "legalNotice": "非官方粉丝维基。由玩家制作，为玩家服务。"
+  },
+  "nav": {
+    "guide": "攻略",
+    "codes": "兑换码",
+    "builds": "流派",
+    "characters": "角色",
+    "items": "物品",
+    "progression": "成长",
+    "mechanics": "机制",
+    "menu": "菜单",
+    "toggleTheme": "切换主题"
+  },
+  "guide": {
+    "overviewTitle": "Lootborne Wiki 攻略",
+    "overviewDescription": "从新手到毕业的 Lootborne 全流程攻略，涵盖核心循环、前期成长、技巧诀窍与活动基础。"
+  },
+  "codes": {
+    "overviewTitle": "Lootborne 兑换码",
+    "overviewDescription": "当前可用的 Lootborne 兑换码、分步兑换方法，以及如何识别虚假或过期兑换码。"
+  },
+  "builds": {
+    "overviewTitle": "Lootborne 流派",
+    "overviewDescription": "最佳 Lootborne 流派、职业与 PvE/PvP 流派原型、强度榜以及属性优先级指南。"
+  },
+  "characters": {
+    "overviewTitle": "Lootborne 角色",
+    "overviewDescription": "详解每个 Lootborne 职业与英雄，包含伙伴以及弓手/法师解析，帮你选出主力。"
+  },
+  "items": {
+    "overviewTitle": "Lootborne 物品",
+    "overviewDescription": "Lootborne 装备、神器、宝石、符文与战利品箱指南，涵盖稀有度层级、属性词条与升级。"
+  },
+  "progression": {
+    "overviewTitle": "Lootborne 成长",
+    "overviewDescription": "快速升级、金币刷取、满级与市场指南，让你的 Lootborne 账号不断前进。"
+  },
+  "mechanics": {
+    "overviewTitle": "Lootborne 机制",
+    "overviewDescription": "Lootborne 的打造、技能、属性与活动如何运作，以及社区资源与工具。"
+  },
+  "home": {
+    "meta": {
+      "title": "Lootborne Wiki - 流派、物品、装备与攻略",
+      "description": "Lootborne Wiki 为暗黑奇幻放置 RPG《Lootborne》玩家提供详尽的流派搭配、物品图鉴、装备策略、Boss 攻略与成长指南。"
+    },
+    "hero": {
+      "eyebrow": "暗黑奇幻放置 RPG",
+      "title": "Lootborne Wiki",
+      "description": "Lootborne Wiki 为暗黑奇幻放置 RPG 提供完整攻略，涵盖流派、装备、物品、Boss、天赋与成长策略。",
+      "stats": [
+        "424 件物品",
+        "60 级等级上限",
+        "27 项成就",
+        "每周更新"
+      ],
+      "primaryCta": "在 Steam 上畅玩",
+      "secondaryCta": "流派与装备攻略",
+      "tertiaryCta": "物品数据库",
+      "videoLabel": "官方媒体"
+    },
+    "updates": {
+      "title": "最新更新",
+      "browse": "浏览全部攻略",
+      "viewAll": "查看全部"
+    },
+    "start": {
+      "eyebrow": "从这里开始",
+      "title": "你的 Lootborne 之旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "新手指南",
+          "description": "了解放置战斗循环、装备稀有度、属性优先级，以及让首个角色保持正轨的早期习惯。"
+        },
+        {
+          "number": "2",
+          "title": "最快升级",
+          "description": "通过高效经验路线、战役目标与密集区域刷怪，更快冲向等级上限。"
+        },
+        {
+          "number": "3",
+          "title": "金币刷取",
+          "description": "用密集路线、智能拾取过滤与自律的跑图重置，把多余战利品变成稳定收入。"
+        },
+        {
+          "number": "4",
+          "title": "最佳职业",
+          "description": "对比核心职业原型，选出契合你装备、操作手感与目标的玩法。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "热门页面",
+      "title": "当下热门",
+      "quickLinks": [
+        "新手指南",
+        "最快升级",
+        "最佳流派",
+        "强度榜"
+      ],
+      "cards": [
+        {
+          "badge": "新手",
+          "title": "新手指南",
+          "description": "首局优先事项、战利品稀有度、属性检查，以及让新流派保持正轨的习惯。",
+          "href": "/guide/lootborne-beginner-guide"
+        },
+        {
+          "badge": "热门",
+          "title": "最佳流派",
+          "description": "近战、射手、施法者、召唤与辅助原型，含属性优先级与装备词条。",
+          "href": "/builds/lootborne-best-build"
+        },
+        {
+          "badge": "已更新",
+          "title": "可用兑换码",
+          "description": "Lootborne 兑换码如何运作、在哪里找到有效码，以及如何安全兑换。",
+          "href": "/codes/lootborne-codes"
+        },
+        {
+          "badge": "最新",
+          "title": "强度榜",
+          "description": "按清怪速度与生存能力，把每个主流流派原型从 S 级排到 D 级。",
+          "href": "/builds/lootborne-tier-list"
+        },
+        {
+          "badge": "热门",
+          "title": "最快升级",
+          "description": "以最少浪费的时间达到上限的经验路线、区域重复与战役习惯。",
+          "href": "/progression/lootborne-fast-leveling"
+        },
+        {
+          "badge": "热门",
+          "title": "金币刷取",
+          "description": "密集刷取路线、出售与分解的取舍规则，以及把多余战利品变成升级的日常。",
+          "href": "/progression/lootborne-gold-farm"
+        },
+        {
+          "badge": "最新",
+          "title": "装备指南",
+          "description": "稀有度层级、词条检查与升级决策，让你不再浪费优质掉落。",
+          "href": "/items/lootborne-gear"
+        },
+        {
+          "badge": "已更新",
+          "title": "市场与交易",
+          "description": "盈利交易背后的价值驱动、价格阶段与经济规则。",
+          "href": "/progression/lootborne-market"
+        },
+        {
+          "badge": "热门",
+          "title": "PvP 流派",
+          "description": "在压力下依然站得住的对决所需属性优先级、词条选择与对位思路。",
+          "href": "/builds/lootborne-pvp-build"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Lootborne 是什么？",
+      "paragraphs": [
+        "Lootborne 是由开发商 Fate Rate 在 Steam 推出的暗黑奇幻放置 RPG 与自动战斗游戏。你围绕掉落的战利品打造英雄，穿越七个区域的副本与精英怪群，而决定你能走多远的，是装备而非仅仅是等级。",
+        "游戏包含六大稀有度层级共 424 件物品、60 级成长线、35 种敌人以及异步 PvP。无论你是追寻传说武器、刷金币重铸，还是为竞技场优化流派，我们的 Lootborne Wiki 都用实用指南与数据表覆盖每个系统。"
+      ],
+      "stats": [
+        {
+          "label": "开发商",
+          "value": "Fate Rate"
+        },
+        {
+          "label": "平台",
+          "value": "Steam"
+        },
+        {
+          "label": "类型",
+          "value": "放置 RPG"
+        },
+        {
+          "label": "物品",
+          "value": "424"
+        },
+        {
+          "label": "稀有度",
+          "value": "6"
+        },
+        {
+          "label": "区域",
+          "value": "7"
+        },
+        {
+          "label": "敌人",
+          "value": "35"
+        },
+        {
+          "label": "成就",
+          "value": "27"
+        }
+      ],
+      "cta": "浏览全部攻略"
+    },
+    "explore": {
+      "title": "探索 Lootborne Wiki",
+      "description": "汇集新手指南、流派、物品、强度榜、PvP、成就、交易与更新攻略，助你精通 Lootborne。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Lootborne Wiki 新手指南",
+          "description": "面向新玩家的核心系统：放置战斗循环、装备稀有度、属性优先级、升级材料，以及会持续累积的早期决策。",
+          "href": "/guide/lootborne-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "通关引导与教学区域，解锁仓库、打造与商人功能"
+            },
+            {
+              "label": "2",
+              "detail": "尝试两三种武器类型，找到真正让你上手的节奏"
+            },
+            {
+              "label": "3",
+              "detail": "专注一个主要伤害技能，而不是把点数摊薄"
+            },
+            {
+              "label": "4",
+              "detail": "为该区域设定装备评分目标，掉落变慢后停止刷取"
+            },
+            {
+              "label": "5",
+              "detail": "在确定哪件物品值得保留前，先攒着升级材料"
+            },
+            {
+              "label": "6",
+              "detail": "推进到更高层级的内容，那里有更好的掉落表"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Lootborne Wiki 流派指南",
+          "description": "围绕你实际拥有的战利品来构建，含职业原型对比、属性优先级与装备词条检查。",
+          "href": "/builds/lootborne-best-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "近战斗士",
+              "detail": "近战斗士 - 依靠生命与护甲支撑的持续近身交换"
+            },
+            {
+              "label": "远程射手",
+              "detail": "远程射手 - 靠暴击成长在安全距离风筝与爆发"
+            },
+            {
+              "label": "施法爆发",
+              "detail": "施法爆发 - 在大招冷却窗口清空全屏范围"
+            },
+            {
+              "label": "召唤师",
+              "detail": "召唤师 - 让召唤物刷怪与作战，自己边玩边学"
+            },
+            {
+              "label": "辅助",
+              "detail": "混合坦克辅助 - 用光环与冷却缩减维持稳定跑图"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Lootborne Wiki 物品指南",
+          "description": "装备成长、物品稀有度、词条评估，以及每件珍贵掉落背后的刷取来源。",
+          "href": "/items/lootborne-gear",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "普通",
+              "detail": "频繁掉落的基础属性装备 - 凑齐一套后即可分解"
+            },
+            {
+              "label": "优秀",
+              "detail": "刷取期间的过渡装备 - 只有主属性正确才保留"
+            },
+            {
+              "label": "稀有",
+              "detail": "中期的中坚装备 - 有两条及以上属性契合就保留"
+            },
+            {
+              "label": "史诗",
+              "detail": "对多数玩家而言可定义流派 - 几乎都应保留并检查"
+            },
+            {
+              "label": "传说",
+              "detail": "带独特词条的稀有追求目标 - 即便不符流派也保留"
+            },
+            {
+              "label": "神话",
+              "detail": "极其稀有的飞升装备 - 不读完词条绝不分解"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Lootborne Wiki 强度榜",
+          "description": "按清怪速度、生存能力、装备门槛与终局成长，为每个主流流派原型排名。",
+          "href": "/builds/lootborne-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "血怒近战与元素施法者 - 在各个阶段都占据统治地位"
+            },
+            {
+              "label": "A",
+              "detail": "召唤师、暴击射手与异常持续伤害 - 稳定全能"
+            },
+            {
+              "label": "B",
+              "detail": "斗士坦克、光环辅助与玻璃大炮 - 在单一领域强势"
+            },
+            {
+              "label": "C",
+              "detail": "混合施法近战与杂色流派 - 运行成本高"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Lootborne Wiki PvP 指南",
+          "description": "异步对决、排行榜爬升，以及决定真实玩家对局的属性与词条选择。",
+          "href": "/builds/lootborne-pvp-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "斗士",
+              "detail": "用有效生命与冷却缩减在长时间交换中耗死对手"
+            },
+            {
+              "label": "刺客",
+              "detail": "在一个爆发窗口内用暴击与机动性秒掉目标"
+            },
+            {
+              "label": "控场",
+              "detail": "在远程掌控空间，绝不让近战近身"
+            },
+            {
+              "label": "游击",
+              "detail": "用机动性加持续伤害不断消耗、重置、再消耗"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Lootborne Wiki 成就指南",
+          "description": "为 Lootborne 的 27 项 Steam 成就做完成规划，从首次通关到追逐级解锁。",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "27 个目标",
+              "detail": "追踪每项 Steam 成就并规划干净的完成路线"
+            },
+            {
+              "label": "通关",
+              "detail": "从 Boss 与剧情目标获取高额首通奖励"
+            },
+            {
+              "label": "里程碑",
+              "detail": "从里程碑层级领取保底装备与升级材料"
+            },
+            {
+              "label": "追逐级",
+              "detail": "为最困难的目标猎取稀有掉落与独特词条"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Lootborne Wiki 交易指南",
+          "description": "Steam 市场规则、价值驱动、价格阶段，以及 Lootborne 经济如何把掉落变成升级。",
+          "href": "/progression/lootborne-market",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "稀缺",
+              "detail": "稀有底材与词条组合在市场上保值最久"
+            },
+            {
+              "label": "需求",
+              "detail": "追踪热门流派推荐什么来预测价格波动"
+            },
+            {
+              "label": "词条数值",
+              "detail": "比较物品的具体属性，而不只是名字"
+            },
+            {
+              "label": "版本更新",
+              "detail": "每次平衡补丁后重新查看挂单，再决定买或卖"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Lootborne Wiki 更新指南",
+          "description": "官方公告、补丁说明、活动周期，以及值得准时参与的奖励窗口。",
+          "href": "/mechanics/lootborne-events",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "轮换",
+              "detail": "短周期活动为现有敌人加入新掉落"
+            },
+            {
+              "label": "Boss",
+              "detail": "限时世界 Boss 与变体掉落追求物品"
+            },
+            {
+              "label": "货币",
+              "detail": "活动专属代币可兑换定向商人奖励"
+            },
+            {
+              "label": "加成",
+              "detail": "经验、掉落率与打造产出提升，助你追赶进度"
+            },
+            {
+              "label": "赛季",
+              "detail": "带完整奖励轨道的长线内容"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "常见问题",
+      "description": "关于 Lootborne 最常见问题的快速解答。",
+      "items": [
+        {
+          "question": "Lootborne 是什么？",
+          "answer": "Lootborne 是由开发商 Fate Rate 在 Steam 推出的暗黑奇幻放置 RPG 与自动战斗游戏。你围绕找到的战利品打造英雄，穿越七个区域清剿副本与精英怪群。"
+        },
+        {
+          "question": "Lootborne 在哪些平台可用？",
+          "answer": "Lootborne 通过 Steam 在 PC 平台提供。它是一款带异步 PvP 功能的单人放置 RPG，而非实时在线游戏。"
+        },
+        {
+          "question": "Lootborne 有多少内容？",
+          "answer": "Lootborne 包含六大稀有度层级的 424 件物品、60 级成长线、七个区域、35 种敌人与 27 项 Steam 成就。"
+        },
+        {
+          "question": "Lootborne 的等级上限是多少？",
+          "answer": "Lootborne 的等级上限是 60。达到后即开启终局内容，此时装备词条、符文与宝石远比角色等级本身重要。"
+        },
+        {
+          "question": "Lootborne 有兑换码吗？",
+          "answer": "Lootborne 兑换码是开发者发布的短字符串，可换取免费奖励。它们区分大小写，通常每个账号限用一次且很快过期，所以找到当天就兑换。"
+        },
+        {
+          "question": "Lootborne 有 PvP 吗？",
+          "answer": "有。Lootborne 具备异步 PvP 对战与排行榜，其中流派选择与冷却时机比单纯的装备评分更重要。"
+        },
+        {
+          "question": "Lootborne 新玩家该从哪里开始？",
+          "answer": "先从 Lootborne 新手指南开始，再跟着最快升级与金币刷取路线打好基础，然后去追逐终局装备。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "准备好精通 Lootborne 了吗？",
+      "description": "从最初的副本之旅到终局 Boss 战，我们的社区维基用免费、最新的攻略为你保驾护航。",
+      "primary": "阅读新手指南",
+      "secondary": "在 Steam 上畅玩"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "维基导航",
+    "activeCodes": "可用兑换码",
+    "updated": "已更新",
+    "viewAllCodes": "查看全部兑换码",
+    "playOnRoblox": "在 Steam 上畅玩",
+    "inThisSection": "本节内容",
+    "tableOfContents": "目录",
+    "nextSteps": "下一步",
+    "needHelp": "需要帮助？",
+    "relatedReading": "相关阅读",
+    "relatedGuides": "相关攻略",
+    "readMore": "阅读更多",
+    "officialMedia": "官方媒体",
+    "home": "首页",
+    "noGuidesAvailable": "暂无可用攻略，敬请期待！"
+  },
+  "footer": {
+    "aboutTitle": "Lootborne Wiki",
+    "about": "Lootborne Wiki 是一个独立的粉丝自建攻略站，涵盖暗黑奇幻放置 RPG 的流派、装备、物品、Boss、天赋与成长策略。",
+    "quickLinks": "快速链接",
+    "guides": "攻略",
+    "legal": "法律",
+    "copyright": "2026 Lootborne Wiki。与 Fate Rate 或 Steam 无关联。",
+    "description": "Steam 上的暗黑奇幻放置 RPG。424 件物品、6 种稀有度、7 个区域与 35 种敌人等你征服。",
+    "playGame": "在 Steam 上畅玩",
+    "officialDiscord": "Steam 社区中心",
+    "officialYoutube": "官方预告片",
+    "vvBuilder": "Lootborne 构建器（流派规划）",
+    "beginnerGuide": "新手指南",
+    "raceGuides": "角色与职业指南",
+    "bossGuides": "战斗与机制",
+    "buildGuide": "流派指南",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款"
+  }
+}

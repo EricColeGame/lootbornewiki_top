@@ -1,1 +1,514 @@
-{}
+{
+  "site": {
+    "name": "Lootborne Wiki",
+    "shortName": "Lootborne",
+    "tagline": "다크 판타지 방치형 RPG의 빌드·아이템·장비·공략",
+    "description": "Lootborne Wiki는 다크 판타지 방치형 RPG 'Lootborne' 플레이어를 위해 상세한 빌드, 아이템 가이드, 장비 전략, 보스 팁, 성장 도움을 제공합니다.",
+    "legalNotice": "비공식 팬 위키. 플레이어가 만들고 플레이어를 위해 만든 사이트입니다."
+  },
+  "nav": {
+    "guide": "공략",
+    "codes": "코드",
+    "builds": "빌드",
+    "characters": "캐릭터",
+    "items": "아이템",
+    "progression": "성장",
+    "mechanics": "시스템",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환"
+  },
+  "guide": {
+    "overviewTitle": "Lootborne Wiki 공략",
+    "overviewDescription": "초보부터 엔드게임까지 아우르는 Lootborne 공략. 핵심 루프, 초반 성장, 팁과 요령, 이벤트 기초를 다룹니다."
+  },
+  "codes": {
+    "overviewTitle": "Lootborne 코드",
+    "overviewDescription": "현재 사용 가능한 Lootborne 코드, 단계별 사용 방법, 가짜·만료 코드를 구별하는 방법."
+  },
+  "builds": {
+    "overviewTitle": "Lootborne 빌드",
+    "overviewDescription": "최고의 Lootborne 빌드, 클래스와 PvE/PvP 아키타입, 티어 리스트, 스탯 우선순위 가이드."
+  },
+  "characters": {
+    "overviewTitle": "Lootborne 캐릭터",
+    "overviewDescription": "모든 Lootborne 클래스와 영웅을 설명하고, 사이드킥과 아처/메이지 분석으로 메인 선택을 돕습니다."
+  },
+  "items": {
+    "overviewTitle": "Lootborne 아이템",
+    "overviewDescription": "Lootborne 장비, 아티팩트, 젬, 룬, 전리품 상자 가이드. 희귀도 등급, 스탯 옵션, 업그레이드를 다룹니다."
+  },
+  "progression": {
+    "overviewTitle": "Lootborne 성장",
+    "overviewDescription": "빠른 레벨업, 골드 파밍, 만렙, 거래 시장 가이드로 Lootborne 계정을 계속 성장시키세요."
+  },
+  "mechanics": {
+    "overviewTitle": "Lootborne 시스템",
+    "overviewDescription": "Lootborne의 제작, 스킬, 스탯, 이벤트 작동 방식과 커뮤니티 자료·도구."
+  },
+  "home": {
+    "meta": {
+      "title": "Lootborne Wiki - 빌드·아이템·장비·공략",
+      "description": "Lootborne Wiki는 다크 판타지 방치형 RPG 'Lootborne' 플레이어를 위해 상세한 빌드, 아이템 가이드, 장비 전략, 보스 팁, 성장 도움을 제공합니다."
+    },
+    "hero": {
+      "eyebrow": "다크 판타지 방치형 RPG",
+      "title": "Lootborne Wiki",
+      "description": "Lootborne Wiki는 다크 판타지 방치형 RPG의 완전한 공략을 제공합니다. 빌드, 장비, 아이템, 보스, 특성, 성장 전략을 다룹니다.",
+      "stats": [
+        "아이템 424개",
+        "레벨 60",
+        "업적 27개",
+        "매주 업데이트"
+      ],
+      "primaryCta": "Steam에서 플레이",
+      "secondaryCta": "빌드 & 장비 가이드",
+      "tertiaryCta": "아이템 데이터베이스",
+      "videoLabel": "공식 미디어"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "당신의 Lootborne 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "방치형 전투 루프, 장비 희귀도, 스탯 우선순위, 첫 캐릭터를 궤도에 올리는 초반 습관을 배우세요."
+        },
+        {
+          "number": "2",
+          "title": "가장 빠른 레벨업",
+          "description": "효율적인 경험치 경로, 캠페인 목표, 밀집 지역 파밍으로 레벨 상한에 더 빨리 도달하세요."
+        },
+        {
+          "number": "3",
+          "title": "골드 파밍",
+          "description": "밀집 경로, 현명한 획득 필터, 규칙적인 런 리셋으로 남는 전리품을 꾸준한 수입으로 바꾸세요."
+        },
+        {
+          "number": "4",
+          "title": "최고의 클래스",
+          "description": "핵심 아키타입을 비교하고 장비, 손맛, 목표에 맞는 플레이스타일을 고르세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기",
+      "quickLinks": [
+        "초보자 가이드",
+        "가장 빠른 레벨업",
+        "최고의 빌드",
+        "티어 리스트"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "첫 세션 우선순위, 전리품 희귀도, 스탯 점검, 새 빌드를 궤도에 유지하는 습관.",
+          "href": "/guide/lootborne-beginner-guide"
+        },
+        {
+          "badge": "인기",
+          "title": "최고의 빌드",
+          "description": "근접, 명사수, 캐스터, 소환사, 서포트 아키타입과 스탯 우선순위·장비 옵션.",
+          "href": "/builds/lootborne-best-build"
+        },
+        {
+          "badge": "업데이트됨",
+          "title": "사용 가능한 코드",
+          "description": "Lootborne 코드의 작동 방식, 유효 코드를 찾는 곳, 안전하게 사용하는 방법.",
+          "href": "/codes/lootborne-codes"
+        },
+        {
+          "badge": "신규",
+          "title": "티어 리스트",
+          "description": "클리어 속도와 생존력 기준으로 모든 주요 빌드 아키타입을 S부터 D까지 순위 매김.",
+          "href": "/builds/lootborne-tier-list"
+        },
+        {
+          "badge": "인기",
+          "title": "가장 빠른 레벨업",
+          "description": "낭비를 최소화하며 상한에 도달하는 경험치 경로, 지역 반복, 캠페인 습관.",
+          "href": "/progression/lootborne-fast-leveling"
+        },
+        {
+          "badge": "인기",
+          "title": "골드 파밍",
+          "description": "밀집 파밍 경로, 판매 대 분해 규칙, 남는 전리품을 업그레이드로 바꾸는 루틴.",
+          "href": "/progression/lootborne-gold-farm"
+        },
+        {
+          "badge": "신규",
+          "title": "장비 가이드",
+          "description": "희귀도 등급, 옵션 점검, 업그레이드 결정으로 좋은 드롭을 낭비하지 마세요.",
+          "href": "/items/lootborne-gear"
+        },
+        {
+          "badge": "업데이트됨",
+          "title": "시장과 거래",
+          "description": "수익성 있는 거래의 가치 요인, 가격 국면, 경제 규칙.",
+          "href": "/progression/lootborne-market"
+        },
+        {
+          "badge": "인기",
+          "title": "PvP 빌드",
+          "description": "압박 속에서도 버티는 결투를 위한 스탯 우선순위, 옵션 선택, 상성 논리.",
+          "href": "/builds/lootborne-pvp-build"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Lootborne이란?",
+      "paragraphs": [
+        "Lootborne은 개발사 Fate Rate가 Steam에서 선보인 다크 판타지 방치형 RPG이자 오토 배틀러입니다. 발견한 전리품을 중심으로 영웅을 키우고, 7개 지역의 던전과 정예 무리를 돌파합니다. 어디까지 갈 수 있는지는 레벨만이 아니라 장비가 결정합니다.",
+        "이 게임에는 6개 희귀도 등급에 걸친 424개 아이템, 레벨 60 성장 트랙, 35종의 적, 비동기 PvP가 포함되어 있습니다. 전설 무기를 좇든, 리롤용 골드를 파밍하든, 아레나용 빌드를 최적화하든, 저희 Lootborne Wiki가 실용적인 가이드와 데이터 표로 모든 시스템을 다룹니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "Fate Rate"
+        },
+        {
+          "label": "플랫폼",
+          "value": "Steam"
+        },
+        {
+          "label": "장르",
+          "value": "방치형 RPG"
+        },
+        {
+          "label": "아이템",
+          "value": "424"
+        },
+        {
+          "label": "희귀도",
+          "value": "6"
+        },
+        {
+          "label": "지역",
+          "value": "7"
+        },
+        {
+          "label": "적",
+          "value": "35"
+        },
+        {
+          "label": "업적",
+          "value": "27"
+        }
+      ],
+      "cta": "모든 가이드 보기"
+    },
+    "explore": {
+      "title": "Lootborne Wiki 둘러보기",
+      "description": "초보자, 빌드, 아이템, 티어 리스트, PvP, 업적, 거래, 업데이트 가이드를 한곳에 모았습니다. Lootborne을 마스터하세요.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Lootborne Wiki 초보자 가이드",
+          "description": "신규 플레이어를 위한 핵심 시스템: 방치형 전투 루프, 장비 희귀도, 스탯 우선순위, 업그레이드 재료, 그리고 복리로 쌓이는 초반 결정.",
+          "href": "/guide/lootborne-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "인트로와 튜토리얼 지역을 클리어해 창고, 제작, 상인을 해금하세요"
+            },
+            {
+              "label": "2",
+              "detail": "두세 가지 무기를 시험해 실제로 재미있는 리듬을 찾으세요"
+            },
+            {
+              "label": "3",
+              "detail": "포인트를 얇게 퍼뜨리지 말고 주력 피해 스킬 하나에 집중하세요"
+            },
+            {
+              "label": "4",
+              "detail": "해당 지역의 장비 점수 목표를 정하고 드롭이 느려지면 파밍을 멈추세요"
+            },
+            {
+              "label": "5",
+              "detail": "어떤 아이템이 남길 만한지 알기 전까지 업그레이드 재료를 모으세요"
+            },
+            {
+              "label": "6",
+              "detail": "더 좋은 드롭 테이블이 있는 다음 콘텐츠 등급으로 나아가세요"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Lootborne Wiki 빌드 가이드",
+          "description": "실제로 보유한 전리품을 중심으로 빌드하는 방법. 아키타입 비교, 스탯 우선순위, 장비 옵션 점검.",
+          "href": "/builds/lootborne-best-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "브루저",
+              "detail": "근접 브루저 - 체력과 방어력으로 지탱하는 지속 근접 교환"
+            },
+            {
+              "label": "명사수",
+              "detail": "원거리 명사수 - 치명타 성장으로 안전거리에서 카이팅과 폭딜"
+            },
+            {
+              "label": "캐스터",
+              "detail": "캐스터 누커 - 긴 쿨다운 창에 화면 전체 광역 정리"
+            },
+            {
+              "label": "소환사",
+              "detail": "소환사 - 소환수가 파밍과 전투를 맡는 동안 게임을 익히세요"
+            },
+            {
+              "label": "서포트",
+              "detail": "하이브리드 탱커 서포트 - 오라와 쿨다운 회복으로 안정적인 런"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Lootborne Wiki 아이템 가이드",
+          "description": "장비 성장, 아이템 희귀도, 옵션 평가, 그리고 모든 값진 드롭의 파밍 출처.",
+          "href": "/items/lootborne-gear",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "일반",
+              "detail": "자주 나오는 기본 스탯 장비 - 한 세트를 갖추면 분해하세요"
+            },
+            {
+              "label": "고급",
+              "detail": "파밍 중 다리 역할 장비 - 주 스탯이 붙었을 때만 보관"
+            },
+            {
+              "label": "희귀",
+              "detail": "중반의 주력 - 두 개 이상 스탯이 맞으면 보관"
+            },
+            {
+              "label": "영웅",
+              "detail": "대부분 플레이어에게 빌드를 결정짓는 장비 - 거의 항상 보관하고 확인"
+            },
+            {
+              "label": "전설",
+              "detail": "고유 옵션이 붙은 희귀 추격 아이템 - 빌드에 안 맞아도 보관"
+            },
+            {
+              "label": "신화",
+              "detail": "매우 희귀한 승천 장비 - 옵션을 읽기 전엔 절대 분해하지 마세요"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Lootborne Wiki 티어 리스트",
+          "description": "클리어 속도, 생존력, 장비 하한, 엔드게임 확장성으로 모든 주요 빌드 아키타입 순위.",
+          "href": "/builds/lootborne-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "블러드레이지 근접과 원소 캐스터 - 모든 단계에서 지배적"
+            },
+            {
+              "label": "A",
+              "detail": "미니언 소환사, 치명타 명사수, 상태이상 DoT - 믿을 수 있는 올라운더"
+            },
+            {
+              "label": "B",
+              "detail": "브루저 탱커, 오라 서포트, 유리 대포 - 한 분야에서 강력"
+            },
+            {
+              "label": "C",
+              "detail": "하이브리드 캐스터 근접과 무지개 빌드 - 운용이 가혹함"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Lootborne Wiki PvP 가이드",
+          "description": "비동기 결투, 리더보드 등반, 실제 대인전을 좌우하는 스탯과 옵션 선택.",
+          "href": "/builds/lootborne-pvp-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "브루저",
+              "detail": "유효 체력과 쿨다운 감소로 장기 교환에서 상대를 지치게 함"
+            },
+            {
+              "label": "암살자",
+              "detail": "치명타와 기동력으로 한 번의 폭딜 창에 목표를 제거"
+            },
+            {
+              "label": "존 컨트롤",
+              "detail": "원거리에서 공간을 지배하고 근접이 접근하지 못하게 함"
+            },
+            {
+              "label": "스커미셔",
+              "detail": "기동력과 지속 피해로 견제하고 리셋하고 반복"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Lootborne Wiki 업적 가이드",
+          "description": "Lootborne의 27개 Steam 업적 완료 계획. 첫 클리어부터 추격 등급 해금까지.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "27개 목표",
+              "detail": "모든 Steam 업적을 추적하고 깔끔한 완료 경로를 계획"
+            },
+            {
+              "label": "클리어",
+              "detail": "보스와 스토리 목표에서 높은 첫 클리어 보상 확보"
+            },
+            {
+              "label": "마일스톤",
+              "detail": "마일스톤 등급에서 확정 장비와 업그레이드 재료 확보"
+            },
+            {
+              "label": "추격 등급",
+              "detail": "가장 어려운 목표를 위해 희귀 드롭과 고유 옵션 사냥"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Lootborne Wiki 거래 가이드",
+          "description": "Steam 마켓 규칙, 가치 요인, 가격 국면, Lootborne 경제가 드롭을 업그레이드로 바꾸는 방식.",
+          "href": "/progression/lootborne-market",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "희소성",
+              "detail": "희귀 베이스와 옵션 조합이 마켓에서 가장 오래 가치를 유지"
+            },
+            {
+              "label": "수요",
+              "detail": "인기 빌드가 추천하는 것을 추적해 가격 변동을 예측"
+            },
+            {
+              "label": "옵션 수치",
+              "detail": "이름만이 아니라 아이템의 정확한 스탯을 비교"
+            },
+            {
+              "label": "패치 시기",
+              "detail": "구매나 판매 전 매 밸런스 패치 후 매물을 다시 확인"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Lootborne Wiki 업데이트 가이드",
+          "description": "공식 공지, 패치 노트, 이벤트 주기, 참여할 가치가 있는 보상 기간.",
+          "href": "/mechanics/lootborne-events",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "로테이션",
+              "detail": "짧은 이벤트 주기가 기존 적에게 새 드롭을 추가"
+            },
+            {
+              "label": "보스",
+              "detail": "기간 한정 월드 보스와 변종이 추격 아이템을 드롭"
+            },
+            {
+              "label": "재화",
+              "detail": "이벤트 전용 토큰은 원하는 상인 보상으로 교환"
+            },
+            {
+              "label": "부스트",
+              "detail": "경험치·드롭률·제작 수율 부스트로 따라잡기"
+            },
+            {
+              "label": "시즌",
+              "detail": "완전한 보상 트랙을 동반한 장기 콘텐츠"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "description": "Lootborne에 대한 가장 흔한 질문에 대한 빠른 답변.",
+      "items": [
+        {
+          "question": "Lootborne이란 무엇인가요?",
+          "answer": "Lootborne은 개발사 Fate Rate가 Steam에서 선보인 다크 판타지 방치형 RPG이자 오토 배틀러입니다. 발견한 전리품을 중심으로 영웅을 키우며 7개 지역의 던전과 정예 무리를 클리어합니다."
+        },
+        {
+          "question": "Lootborne은 어느 플랫폼에서 플레이할 수 있나요?",
+          "answer": "Lootborne은 Steam을 통해 PC에서 플레이할 수 있습니다. 실시간 온라인 게임이 아니라 비동기 PvP 기능을 갖춘 싱글 플레이 방치형 RPG입니다."
+        },
+        {
+          "question": "Lootborne의 콘텐츠 분량은 얼마나 되나요?",
+          "answer": "Lootborne에는 6개 희귀도 등급의 424개 아이템, 레벨 60 성장 트랙, 7개 지역, 35종의 적, 27개 Steam 업적이 포함됩니다."
+        },
+        {
+          "question": "Lootborne의 레벨 상한은?",
+          "answer": "Lootborne의 레벨 상한은 60입니다. 도달하면 엔드게임이 열리며, 장비 옵션 수치, 룬, 젬이 순수 레벨보다 훨씬 중요해집니다."
+        },
+        {
+          "question": "Lootborne에 코드가 있나요?",
+          "answer": "Lootborne 코드는 무료 보상을 주는 개발자 발급 문자열입니다. 대소문자를 구분하고 보통 계정당 1회이며 빠르게 만료되므로, 발견한 날 바로 사용하세요."
+        },
+        {
+          "question": "Lootborne에 PvP가 있나요?",
+          "answer": "네. Lootborne에는 비동기 PvP 전투와 리더보드가 있으며, 순수 장비 점수보다 빌드 선택과 쿨다운 타이밍이 더 중요합니다."
+        },
+        {
+          "question": "Lootborne 신규 플레이어는 어디서 시작해야 하나요?",
+          "answer": "먼저 Lootborne 초보자 가이드로 시작하고, 가장 빠른 레벨업과 골드 파밍 경로로 안정적인 기반을 만든 뒤 엔드게임 장비를 노리세요."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Lootborne을 마스터할 준비가 되셨나요?",
+      "description": "첫 던전부터 엔드게임 보스전까지, 저희 커뮤니티 위키가 무료 최신 가이드로 함께합니다.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "Steam에서 플레이"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "사용 가능한 코드",
+    "updated": "업데이트됨",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "Steam에서 플레이",
+    "inThisSection": "이 섹션",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽을거리",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 다시 확인해 주세요!"
+  },
+  "footer": {
+    "aboutTitle": "Lootborne Wiki",
+    "about": "Lootborne Wiki는 다크 판타지 방치형 RPG의 빌드, 장비, 아이템, 보스, 특성, 성장 전략을 다루는 독립 팬 제작 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 Lootborne Wiki. Fate Rate 또는 Steam과 제휴 관계가 없습니다.",
+    "description": "Steam의 다크 판타지 방치형 RPG. 424개 아이템, 6개 희귀도, 7개 지역, 35종의 적을 정복하세요.",
+    "playGame": "Steam에서 플레이",
+    "officialDiscord": "Steam 커뮤니티 허브",
+    "officialYoutube": "공식 트레일러",
+    "vvBuilder": "Lootborne 빌더 (빌드 플래너)",
+    "beginnerGuide": "초보자 가이드",
+    "raceGuides": "캐릭터 & 클래스 가이드",
+    "bossGuides": "전투 & 시스템",
+    "buildGuide": "빌드 가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "이용약관"
+  }
+}

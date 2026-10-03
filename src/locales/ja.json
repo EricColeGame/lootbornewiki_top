@@ -1,1 +1,514 @@
-{}
+{
+  "site": {
+    "name": "Lootborne Wiki",
+    "shortName": "Lootborne",
+    "tagline": "ダークファンタジー放置RPGのビルド・アイテム・装備・攻略",
+    "description": "Lootborne Wiki は、ダークファンタジー放置RPG『Lootborne』のプレイヤー向けに、詳細なビルド、アイテムガイド、装備戦略、ボスのコツ、成長の進め方を提供します。",
+    "legalNotice": "非公式ファンウィキ。プレイヤーによる、プレイヤーのためのサイトです。"
+  },
+  "nav": {
+    "guide": "攻略",
+    "codes": "コード",
+    "builds": "ビルド",
+    "characters": "キャラクター",
+    "items": "アイテム",
+    "progression": "成長",
+    "mechanics": "システム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え"
+  },
+  "guide": {
+    "overviewTitle": "Lootborne Wiki 攻略",
+    "overviewDescription": "初心者からエンドゲームまでの Lootborne 攻略。コアループ、序盤の進め方、コツ、イベントの基本を網羅。"
+  },
+  "codes": {
+    "overviewTitle": "Lootborne コード",
+    "overviewDescription": "現在有効な Lootborne コード、段階的な引き換え方法、偽物や期限切れコードの見分け方。"
+  },
+  "builds": {
+    "overviewTitle": "Lootborne ビルド",
+    "overviewDescription": "最強の Lootborne ビルド、クラスと PvE/PvP のアーキタイプ、ティアリスト、ステータス優先度ガイド。"
+  },
+  "characters": {
+    "overviewTitle": "Lootborne キャラクター",
+    "overviewDescription": "すべての Lootborne クラスとヒーローを解説。サイドキックやアーチャー/メイジの内訳も紹介し、メイン選びを支援。"
+  },
+  "items": {
+    "overviewTitle": "Lootborne アイテム",
+    "overviewDescription": "Lootborne の装備、アーティファクト、ジェム、ルーン、ルートキャッシュのガイド。レアリティ階層、ステータス厳選、強化を解説。"
+  },
+  "progression": {
+    "overviewTitle": "Lootborne 成長",
+    "overviewDescription": "高速レベル上げ、ゴールド稼ぎ、レベル上限、マーケットのガイドで、Lootborne アカウントを前進させ続ける。"
+  },
+  "mechanics": {
+    "overviewTitle": "Lootborne システム",
+    "overviewDescription": "Lootborne のクラフト、スキル、ステータス、イベントの仕組みと、コミュニティリソース・ツール。"
+  },
+  "home": {
+    "meta": {
+      "title": "Lootborne Wiki - ビルド・アイテム・装備・攻略",
+      "description": "Lootborne Wiki は、ダークファンタジー放置RPG『Lootborne』のプレイヤー向けに、詳細なビルド、アイテムガイド、装備戦略、ボスのコツ、成長の進め方を提供します。"
+    },
+    "hero": {
+      "eyebrow": "ダークファンタジー放置RPG",
+      "title": "Lootborne Wiki",
+      "description": "Lootborne Wiki はダークファンタジー放置RPGの完全攻略を提供。ビルド、装備、アイテム、ボス、パーク、成長戦略を網羅。",
+      "stats": [
+        "424 アイテム",
+        "60 レベル",
+        "27 実績",
+        "毎週更新"
+      ],
+      "primaryCta": "Steam でプレイ",
+      "secondaryCta": "ビルド＆装備ガイド",
+      "tertiaryCta": "アイテムデータベース",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべての攻略を見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "まずはここから",
+      "title": "あなたの Lootborne の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "放置戦闘のループ、装備レアリティ、ステータス優先度、そして最初のキャラクターを軌道に乗せる序盤の習慣を学ぶ。"
+        },
+        {
+          "number": "2",
+          "title": "最速レベル上げ",
+          "description": "効率的な経験値ルート、キャンペーン目標、密集地帯の周回で、レベル上限へより速く到達。"
+        },
+        {
+          "number": "3",
+          "title": "ゴールド稼ぎ",
+          "description": "密集ルート、賢い拾得フィルター、規律ある周回リセットで、余ったルートを安定収入に変える。"
+        },
+        {
+          "number": "4",
+          "title": "最強クラス",
+          "description": "主要アーキタイプを比較し、装備・反射神経・目標に合うプレイスタイルを選ぶ。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題",
+      "quickLinks": [
+        "初心者ガイド",
+        "最速レベル上げ",
+        "最強ビルド",
+        "ティアリスト"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "初回セッションの優先事項、ルートのレアリティ、ステータス確認、新しいビルドを軌道に乗せる習慣。",
+          "href": "/guide/lootborne-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "最強ビルド",
+          "description": "近接、マークスマン、キャスター、サモナー、サポートのアーキタイプとステータス優先度・装備厳選。",
+          "href": "/builds/lootborne-best-build"
+        },
+        {
+          "badge": "更新済み",
+          "title": "有効コード",
+          "description": "Lootborne コードの仕組み、有効なコードの探し方、安全な引き換え方法。",
+          "href": "/codes/lootborne-codes"
+        },
+        {
+          "badge": "新着",
+          "title": "ティアリスト",
+          "description": "クリア速度と生存力で、主要ビルドアーキタイプを S から D までランク付け。",
+          "href": "/builds/lootborne-tier-list"
+        },
+        {
+          "badge": "人気",
+          "title": "最速レベル上げ",
+          "description": "無駄を最小限にして上限へ到達する経験値ルート、エリア周回、キャンペーンの習慣。",
+          "href": "/progression/lootborne-fast-leveling"
+        },
+        {
+          "badge": "人気",
+          "title": "ゴールド稼ぎ",
+          "description": "密集ルート、売却と分解のルール、余ったルートを強化に変えるルーティン。",
+          "href": "/progression/lootborne-gold-farm"
+        },
+        {
+          "badge": "新着",
+          "title": "装備ガイド",
+          "description": "レアリティ階層、アフィックスの確認、強化の判断で、良いドロップを無駄にしない。",
+          "href": "/items/lootborne-gear"
+        },
+        {
+          "badge": "更新済み",
+          "title": "マーケットとトレード",
+          "description": "利益を生む取引の価値要因、価格フェーズ、経済ルール。",
+          "href": "/progression/lootborne-market"
+        },
+        {
+          "badge": "人気",
+          "title": "PvP ビルド",
+          "description": "プレッシャー下でも通用する決闘のためのステータス優先度、アフィックス選択、対面の考え方。",
+          "href": "/builds/lootborne-pvp-build"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Lootborne とは？",
+      "paragraphs": [
+        "Lootborne は、開発元 Fate Rate が Steam で配信するダークファンタジー放置RPG兼オートバトラーです。見つけたルートを基にヒーローを育て、7つのリージョンのダンジョンとエリートの群れを突破していきます。どこまで進めるかを決めるのはレベルだけでなく装備です。",
+        "本作には6つのレアリティ階層にまたがる424のアイテム、レベル60までの成長トラック、35種の敵、非同期 PvP が収録されています。伝説の武器を追うにせよ、厳選用のゴールドを稼ぐにせよ、アリーナ向けにビルドを最適化するにせよ、当 Lootborne Wiki は実用的なガイドとデータ表で全システムを網羅します。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Fate Rate"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Steam"
+        },
+        {
+          "label": "ジャンル",
+          "value": "放置RPG"
+        },
+        {
+          "label": "アイテム",
+          "value": "424"
+        },
+        {
+          "label": "レアリティ",
+          "value": "6"
+        },
+        {
+          "label": "リージョン",
+          "value": "7"
+        },
+        {
+          "label": "敵",
+          "value": "35"
+        },
+        {
+          "label": "実績",
+          "value": "27"
+        }
+      ],
+      "cta": "すべての攻略を見る"
+    },
+    "explore": {
+      "title": "Lootborne Wiki を探索",
+      "description": "初心者、ビルド、アイテム、ティアリスト、PvP、実績、トレード、アップデートの攻略を一か所に集約。Lootborne を極めよう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Lootborne Wiki 初心者ガイド",
+          "description": "新規プレイヤー向けの必須システム：放置戦闘ループ、装備レアリティ、ステータス優先度、強化素材、そして複利的に効く序盤の判断。",
+          "href": "/guide/lootborne-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "イントロとチュートリアルエリアをクリアして、倉庫・クラフト・ベンダーを解放"
+            },
+            {
+              "label": "2",
+              "detail": "2〜3種類の武器を試して、本当に楽しいリズムを見つける"
+            },
+            {
+              "label": "3",
+              "detail": "ポイントを薄く広げず、主力ダメージスキルを1つに絞る"
+            },
+            {
+              "label": "4",
+              "detail": "そのエリアの装備スコア目標を決め、ドロップが鈍ったら周回をやめる"
+            },
+            {
+              "label": "5",
+              "detail": "どれが残すべき一品か分かるまで強化素材を貯める"
+            },
+            {
+              "label": "6",
+              "detail": "より良いドロップテーブルがある次のコンテンツ層へ進む"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Lootborne Wiki ビルドガイド",
+          "description": "実際に持っているルートを基に構築する方法。アーキタイプ比較、ステータス優先度、装備アフィックス確認。",
+          "href": "/builds/lootborne-best-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ブルーザー",
+              "detail": "近接ブルーザー - 体力とアーマーに支えられた持続的な近距離トレード"
+            },
+            {
+              "label": "マークスマン",
+              "detail": "遠距離マークスマン - クリティカル成長で安全圏からカイト＆バースト"
+            },
+            {
+              "label": "キャスター",
+              "detail": "キャスターヌーカー - 大きなクールダウン窓で画面全体を範囲処理"
+            },
+            {
+              "label": "サモナー",
+              "detail": "サモナー - ミニオンに周回と戦闘を任せ、自分はゲームを学ぶ"
+            },
+            {
+              "label": "サポート",
+              "detail": "ハイブリッドタンクサポート - オーラとクールダウン回復で安定した周回"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Lootborne Wiki アイテムガイド",
+          "description": "装備の成長、アイテムレアリティ、アフィックス評価、そして価値あるドロップのファーミング源。",
+          "href": "/items/lootborne-gear",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "コモン",
+              "detail": "頻出の基礎ステータス装備 - 一式揃ったら分解"
+            },
+            {
+              "label": "アンコモン",
+              "detail": "周回中の橋渡し装備 - メインステータスが乗った時だけ保持"
+            },
+            {
+              "label": "レア",
+              "detail": "中盤の主力 - 2つ以上のステータスが噛み合えば保持"
+            },
+            {
+              "label": "エピック",
+              "detail": "多くのプレイヤーにとってビルドを決める装備 - ほぼ常に保持して確認"
+            },
+            {
+              "label": "レジェンダリー",
+              "detail": "固有モディファイア付きの希少な追い物 - ビルド外でも保持"
+            },
+            {
+              "label": "ミシック",
+              "detail": "ごく稀な昇華装備 - モディファイアを読むまで絶対に分解しない"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Lootborne Wiki ティアリスト",
+          "description": "クリア速度、生存力、装備下限、エンドゲームの伸びで主要ビルドアーキタイプをランク付け。",
+          "href": "/builds/lootborne-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "ブラッドレイジ近接とエレメンタルキャスター - あらゆる段階で支配的"
+            },
+            {
+              "label": "A",
+              "detail": "ミニオンサモナー、クリティカルマークスマン、状態異常DoT - 信頼できる万能型"
+            },
+            {
+              "label": "B",
+              "detail": "ブルーザータンク、オーラサポート、ガラスキャノン - 一点特化で強力"
+            },
+            {
+              "label": "C",
+              "detail": "ハイブリッドキャスター近接とレインボービルド - 運用が苦しい"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Lootborne Wiki PvP ガイド",
+          "description": "非同期の決闘、リーダーボード登り、そして実際の対人戦を決めるステータスとアフィックスの選択。",
+          "href": "/builds/lootborne-pvp-build",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ブルーザー",
+              "detail": "効果体力とクールダウン短縮で長期戦に持ち込み相手を消耗させる"
+            },
+            {
+              "label": "アサシン",
+              "detail": "クリティカルと機動力で1つのバースト窓に目標を消す"
+            },
+            {
+              "label": "ゾーナー",
+              "detail": "遠距離で空間を支配し、近接に距離を詰めさせない"
+            },
+            {
+              "label": "スカーミッシャー",
+              "detail": "機動力と持続ダメージで削って離脱、を繰り返す"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Lootborne Wiki 実績ガイド",
+          "description": "Lootborne の27の Steam 実績のコンプリート計画。初クリアから追跡級の解放まで。",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "27 の目標",
+              "detail": "すべての Steam 実績を追跡し、無駄のないコンプリートルートを計画"
+            },
+            {
+              "label": "クリア",
+              "detail": "ボスとストーリー目標から高額な初回クリア報酬を獲得"
+            },
+            {
+              "label": "マイルストーン",
+              "detail": "マイルストーン層から保証装備と強化素材を確保"
+            },
+            {
+              "label": "追跡級",
+              "detail": "最難関の目標に向けて希少ドロップと固有モディファイアを狙う"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Lootborne Wiki トレードガイド",
+          "description": "Steam マーケットのルール、価値要因、価格フェーズ、そして Lootborne 経済がドロップを強化に変える仕組み。",
+          "href": "/progression/lootborne-market",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "希少性",
+              "detail": "希少なベースとアフィックス構成はマーケットで最も長く価値を保つ"
+            },
+            {
+              "label": "需要",
+              "detail": "人気ビルドが推奨する内容を追い、価格変動を予測する"
+            },
+            {
+              "label": "厳選値",
+              "detail": "名前だけでなく、アイテムの正確なステータスを比較する"
+            },
+            {
+              "label": "パッチ時期",
+              "detail": "買う・売る前に、毎回のバランス調整後に出品を再確認する"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Lootborne Wiki アップデートガイド",
+          "description": "公式発表、パッチノート、イベントサイクル、そして参加する価値のある報酬期間。",
+          "href": "/mechanics/lootborne-events",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ローテーション",
+              "detail": "短いイベントサイクルが既存の敵に新しいドロップを追加"
+            },
+            {
+              "label": "ボス",
+              "detail": "期間限定のワールドボスと亜種が追い物アイテムをドロップ"
+            },
+            {
+              "label": "通貨",
+              "detail": "イベント限定トークンは狙ったベンダー報酬に交換できる"
+            },
+            {
+              "label": "ブースト",
+              "detail": "経験値・ドロップ率・クラフト収量のブーストで追い上げ"
+            },
+            {
+              "label": "シーズン",
+              "detail": "完全な報酬トラックを伴う長期コンテンツ"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Lootborne について最も多い質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Lootborne とは何ですか？",
+          "answer": "Lootborne は、開発元 Fate Rate が Steam で配信するダークファンタジー放置RPG兼オートバトラーです。見つけたルートを基にヒーローを育て、7つのリージョンでダンジョンとエリートの群れを攻略します。"
+        },
+        {
+          "question": "Lootborne はどのプラットフォームで遊べますか？",
+          "answer": "Lootborne は Steam を通じて PC で遊べます。リアルタイムのオンラインゲームではなく、非同期 PvP 機能を備えたシングルプレイの放置RPGです。"
+        },
+        {
+          "question": "Lootborne のボリュームはどれくらいですか？",
+          "answer": "Lootborne には6つのレアリティ階層の424アイテム、レベル60までの成長トラック、7つのリージョン、35種の敵、27の Steam 実績が含まれます。"
+        },
+        {
+          "question": "Lootborne のレベル上限は？",
+          "answer": "Lootborne のレベル上限は60です。到達するとエンドゲームが解放され、装備の厳選値、ルーン、ジェムが生のレベルよりもはるかに重要になります。"
+        },
+        {
+          "question": "Lootborne にコードはありますか？",
+          "answer": "Lootborne のコードは、無料報酬を付与する開発者発行の短い文字列です。大文字小文字を区別し、通常は1アカウント1回で、すぐ失効するため、見つけた当日に引き換えましょう。"
+        },
+        {
+          "question": "Lootborne に PvP はありますか？",
+          "answer": "はい。Lootborne には非同期 PvP バトルとリーダーボードがあり、生の装備スコアよりもビルドの選択とクールダウンのタイミングが重要です。"
+        },
+        {
+          "question": "Lootborne の新規プレイヤーはどこから始めるべき？",
+          "answer": "まず Lootborne 初心者ガイドから始め、最速レベル上げとゴールド稼ぎのルートで安定した土台を作ってから、エンドゲーム装備を追いましょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Lootborne を極める準備はできた？",
+      "description": "最初のダンジョンからエンドゲームのボス戦まで、コミュニティウィキが無料で最新の攻略を提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新済み",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Steam でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Lootborne Wiki",
+    "about": "Lootborne Wiki は、ダークファンタジー放置RPGのビルド、装備、アイテム、ボス、パーク、成長戦略を扱う独立系のファン制作ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Lootborne Wiki。Fate Rate および Steam とは提携していません。",
+    "description": "Steam のダークファンタジー放置RPG。424アイテム、6レアリティ、7リージョン、35種の敵を極めよう。",
+    "playGame": "Steam でプレイ",
+    "officialDiscord": "Steam コミュニティハブ",
+    "officialYoutube": "公式トレーラー",
+    "vvBuilder": "Lootborne ビルダー（ビルドプランナー）",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "キャラクター＆クラスガイド",
+    "bossGuides": "戦闘＆システム",
+    "buildGuide": "ビルドガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
